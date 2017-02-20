@@ -1,4 +1,4 @@
-package org.snackunderflow.moonbase.core;
+package com.muchq.guice;
 
 import com.google.inject.AbstractModule;
 
